@@ -1,0 +1,10 @@
+imgs/*.gif
+imgs/*.ipynb
+imgs/.ipynb_checkpoints
+.vscode
+__pycache__
+resource
+utils
+log
+
+schedule*.py
